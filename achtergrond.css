@@ -1,0 +1,66 @@
+.main-container {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+
+}
+
+.block1 {
+
+    height: 100px;
+    position: absolute;
+    top: -20px;
+    z-index: 2;
+}
+
+.block2 {
+    position: absolute;
+    top: 450px;
+    font-size: 150%
+}
+
+.block3 {
+    position: absolute;
+    top: 300px;
+    width: 100%;
+    text-align: center;
+}
+
+.block4 {
+
+    position: absolute;
+    top: 400px;
+    left: 300px;
+
+}
+
+.block5 {
+    position: absolute;
+    height: 320px;
+    width: 100%;
+
+}
+
+.block6 {
+    width: 100%;
+    position: absolute;
+}
+
+.banner-image {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.maps {
+    width: 100%;
+}
+
+.map-container {
+    width: 80%;
+    height: auto;
+}
